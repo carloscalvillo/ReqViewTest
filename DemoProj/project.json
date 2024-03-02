@@ -6,7 +6,8 @@
     "RISKS.json",
     "SRS.json",
     "TESTS.json",
-    "ARCH.json"
+    "ARCH.json",
+    "OpsCon.json"
   ],
   "hierarchy": [
     "INF",
@@ -29,7 +30,8 @@
         "ARCH"
       ],
       "id": "Level 3"
-    }
+    },
+    "OpsCon"
   ],
   "traceability": {
     "implementation": {

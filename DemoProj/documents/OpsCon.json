@@ -1,0 +1,329 @@
+{
+  "id": "OpsCon",
+  "guid": "6b2cc600-899e-466e-9994-2122221a6e5d",
+  "name": "System Operational Concept",
+  "lastId": 45,
+  "createdOn": "2024-03-02T17:44:11.251Z",
+  "createdBy": {
+    "name": "Carlosa",
+    "email": "c@c.com",
+    "company": ""
+  },
+  "lastChangedOn": "2024-03-02T17:44:11.251Z",
+  "lastChangedBy": {
+    "name": "Carlosa",
+    "email": "c@c.com",
+    "company": ""
+  },
+  "helpRef": "ISO/IEC/IEEE 29148:2018",
+  "data": [
+    {
+      "id": "1",
+      "guid": "efe15b06-a76d-4f5a-ac4e-986ac0156ed0",
+      "heading": "Introduction",
+      "helpRef": "A.1"
+    },
+    {
+      "id": "2",
+      "guid": "c33ebed8-28e8-471c-93c3-c76d76e3b0ca",
+      "heading": "Scope",
+      "helpRef": "A.2.2.1",
+      "children": [
+        {
+          "id": "3",
+          "guid": "9203286e-ea1e-40d1-9de3-b131f5dcd29b",
+          "heading": "System identification",
+          "helpRef": "A.2.2.2"
+        },
+        {
+          "id": "4",
+          "guid": "defec9c5-e0b2-452e-a25e-e19aeddea3c3",
+          "heading": "Document overview",
+          "helpRef": "A.2.2.3"
+        },
+        {
+          "id": "5",
+          "guid": "917f6990-9833-499f-8be8-35696f5b7e4e",
+          "heading": "System overview",
+          "helpRef": "A.2.2.4"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "guid": "aec5b924-7b53-430a-b4a1-3ab42bd6c0a8",
+      "heading": "Current system or situation",
+      "helpRef": "A.2.4.1",
+      "children": [
+        {
+          "id": "7",
+          "guid": "982b3cd0-8c12-493e-a775-f03aa38ed555",
+          "heading": "Background, objectives and scope",
+          "helpRef": "A.2.4.2"
+        },
+        {
+          "id": "8",
+          "guid": "14ce8f65-fc28-434e-83a5-ffc9d96f486b",
+          "heading": "Operational policies and constraints",
+          "helpRef": "A.2.4.3"
+        },
+        {
+          "id": "9",
+          "guid": "5636fc89-ff5f-4b1d-a4e3-eb261b36d435",
+          "heading": "Description of the current system or situation",
+          "helpRef": "A.2.4.4"
+        },
+        {
+          "id": "10",
+          "guid": "53f725b9-8082-45cc-baca-6228bce52c3a",
+          "heading": "Modes of operation for the current system or situation",
+          "helpRef": "A.2.4.5"
+        },
+        {
+          "id": "11",
+          "guid": "082b2196-abca-47fa-8a17-51a99ae9ee9e",
+          "heading": "User classes and other involved personnel",
+          "helpRef": "A.2.4.6",
+          "children": [
+            {
+              "id": "12",
+              "guid": "8f1fa8ff-d407-418b-822f-9ad5b62fe685",
+              "heading": "Organizational structure",
+              "helpRef": "A.2.4.6.1"
+            },
+            {
+              "id": "13",
+              "guid": "c8323d34-08f6-47b5-8f07-b226a225cd42",
+              "heading": "Profiles of user classes",
+              "helpRef": "A.2.4.6.2"
+            },
+            {
+              "id": "14",
+              "guid": "c91a9f00-a1ba-4212-9d84-d73ceb6a9a5b",
+              "heading": "Interactions among user classes",
+              "helpRef": "A.2.4.6.3"
+            },
+            {
+              "id": "15",
+              "guid": "d53f088c-0dad-4b51-a7ad-df6e0748e03b",
+              "heading": "Other involved personnel",
+              "helpRef": "A.2.4.6.4"
+            },
+            {
+              "id": "16",
+              "guid": "f67f61ae-0cb0-4493-94fd-04b7fff0565b",
+              "heading": "Support environment",
+              "helpRef": "A.2.4.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "guid": "19939a60-356d-4da1-adff-6077c34c91b7",
+      "heading": "Justification for and nature of changes",
+      "helpRef": "A.2.5.1",
+      "children": [
+        {
+          "id": "18",
+          "guid": "b690439b-1ac0-4521-8d97-103d61550aad",
+          "heading": "Justification for changes",
+          "helpRef": "A.2.5.2"
+        },
+        {
+          "id": "19",
+          "guid": "b7444acc-38b9-42fd-b6fa-9a0ab498d2ad",
+          "heading": "Description of desired changes",
+          "helpRef": "A.2.5.3"
+        },
+        {
+          "id": "20",
+          "guid": "140e9ead-0623-4e83-99f0-d1226e26b596",
+          "heading": "Priorities among changes",
+          "helpRef": "A.2.5.4"
+        },
+        {
+          "id": "21",
+          "guid": "36df5a2f-a821-4c6d-a06d-b8d2ef7b0d48",
+          "heading": "Changes considered but not included",
+          "helpRef": "A.2.5.5"
+        },
+        {
+          "id": "22",
+          "guid": "db655f83-ebb9-4376-bbbe-11e81af8f393",
+          "heading": "Assumptions and constraints",
+          "helpRef": "A.2.5.6"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "guid": "8f91f2b3-e0d8-4150-84bf-010121e7a8c0",
+      "heading": "Concepts for the proposed system",
+      "helpRef": "A.2.6.1",
+      "children": [
+        {
+          "id": "24",
+          "guid": "b94b141d-c900-49b8-956c-978e4f81c591",
+          "heading": "Background, objectives and scope",
+          "helpRef": "A.2.6.2"
+        },
+        {
+          "id": "25",
+          "guid": "af74e348-580f-4e75-bf29-a2dd43597609",
+          "heading": "Operational policies and constraints",
+          "helpRef": "A.2.6.3"
+        },
+        {
+          "id": "26",
+          "guid": "7a0c7ce9-4798-44c4-addf-17da03ffa19f",
+          "heading": "Description of the proposed system",
+          "helpRef": "A.2.6.4"
+        },
+        {
+          "id": "27",
+          "guid": "6e1307f2-f0fe-4715-8942-c8e267eea6c4",
+          "heading": "Modes of operation",
+          "helpRef": "A.2.6.5"
+        },
+        {
+          "id": "28",
+          "guid": "374d52ba-208c-416e-a0fe-e0c4eba1985c",
+          "heading": "User classes and other involved personnel",
+          "helpRef": "A.2.6.6.1",
+          "children": [
+            {
+              "id": "29",
+              "guid": "d1ed7f71-b02b-4cf5-9011-214c33cfab20",
+              "heading": "Organizational structure",
+              "helpRef": "A.2.6.6.2"
+            },
+            {
+              "id": "30",
+              "guid": "d5963206-0865-4ea2-bc5e-599abadaca65",
+              "heading": "Profiles of user classes",
+              "helpRef": "A.2.6.6.3"
+            },
+            {
+              "id": "31",
+              "guid": "cb27761a-4c4d-42d9-a597-af519ef1c047",
+              "heading": "Interactions among user classes",
+              "helpRef": "A.2.6.6.4"
+            },
+            {
+              "id": "32",
+              "guid": "7ea7ada9-2dcf-4178-9721-de1ae5baf810",
+              "heading": "Other involved personnel",
+              "helpRef": "A.2.6.6.5"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "guid": "74946430-c837-4ac4-b8f0-caa8bd83e8b3",
+          "heading": "Support environment",
+          "helpRef": "A.2.6.7"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "guid": "fb9b78e5-657b-43e5-a49f-d1926da20540",
+      "heading": "Operational scenarios",
+      "helpRef": "A.2.7"
+    },
+    {
+      "id": "35",
+      "guid": "11ae80db-d8f1-4f77-ab81-9479404fc7ae",
+      "heading": "Summary of impacts",
+      "helpRef": "A.2.8.1",
+      "children": [
+        {
+          "id": "36",
+          "guid": "e1e6aaa7-95c5-4ec2-aa81-54d09b9adc5f",
+          "heading": "Operational impacts",
+          "helpRef": "A.2.8.2"
+        },
+        {
+          "id": "37",
+          "guid": "3b808691-59cd-4863-a5c7-196021c38793",
+          "heading": "Organizational impacts",
+          "helpRef": "A.2.8.3"
+        },
+        {
+          "id": "38",
+          "guid": "0f43b5f1-b6df-4dd0-9c52-5b2f2a32a2ea",
+          "heading": "Impacts during development",
+          "helpRef": "A.2.8.4"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "guid": "c66639a6-51d8-4164-82ca-a5838cab9b21",
+      "heading": "Analysis of the proposed system",
+      "helpRef": "A.2.9.1",
+      "children": [
+        {
+          "id": "40",
+          "guid": "dadc8bcf-a586-40bc-bb22-c76e7b09326c",
+          "heading": "Benefits",
+          "helpRef": "A.2.9.2"
+        },
+        {
+          "id": "41",
+          "guid": "85e7cec1-9120-48e4-a7a9-2fb107ed96d1",
+          "heading": "Disadvantages and limitations",
+          "helpRef": "A.2.9.3"
+        },
+        {
+          "id": "42",
+          "guid": "180964ec-03fc-4d3c-81d7-bb7000bc0e4c",
+          "heading": "Alternatives considered",
+          "helpRef": "A.2.9.4"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "guid": "b59ba8e7-f6a9-4550-93db-e51e52a1b5e7",
+      "heading": "Appendices",
+      "helpRef": "A.2.10"
+    },
+    {
+      "id": "44",
+      "guid": "9d504eb6-bab6-440c-9388-e9f04e6885db",
+      "heading": "Glossary",
+      "helpRef": "A.2.11"
+    },
+    {
+      "id": "45",
+      "guid": "2b154abd-48ce-4642-81f5-aa1eef30eb2b",
+      "heading": "References",
+      "helpRef": "A.2.3"
+    }
+  ],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.17"
+  }
+}
