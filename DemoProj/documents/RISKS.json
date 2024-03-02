@@ -9,11 +9,11 @@
     "email": "libor.bus@eccam.com",
     "company": "Eccam s.r.o."
   },
-  "lastChangedOn": "2023-10-09T15:04:02.057Z",
+  "lastChangedOn": "2024-03-02T17:19:49.037Z",
   "lastChangedBy": {
-    "name": "Libor Bus",
-    "email": "libor.bus@eccam.com",
-    "company": "Eccam"
+    "name": "Carlosa",
+    "email": "c@c.com",
+    "company": ""
   },
   "data": [
     {
@@ -32,9 +32,22 @@
         {
           "id": "5",
           "guid": "a85e7603-54d0-41ab-aa96-fd4f20dc2720",
-          "heading": "Purpose",
+          "heading": "Purpose Modified",
           "instructions": "<p>Identify the product specified in this document.</p>",
           "type": "SEC",
+          "history": [
+            {
+              "attributesChanged": {
+                "heading": "Purpose"
+              },
+              "changedBy": {
+                "company": "",
+                "email": "c@c.com",
+                "name": "Carlosa"
+              },
+              "changedOn": "2024-03-02T17:19:49.037Z"
+            }
+          ],
           "children": [
             {
               "id": "29",
