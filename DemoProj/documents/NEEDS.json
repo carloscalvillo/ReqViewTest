@@ -9,7 +9,7 @@
     "email": "libor.bus@eccam.com",
     "company": "Eccam s.r.o."
   },
-  "lastChangedOn": "2024-03-02T17:35:37.281Z",
+  "lastChangedOn": "2024-03-02T17:49:34.011Z",
   "lastChangedBy": {
     "name": "Carlosa",
     "email": "c@c.com",
@@ -275,13 +275,26 @@
             {
               "id": "69",
               "guid": "8547cf35-70e0-47e9-8683-44702395341a",
-              "heading": "Custom Attributes",
+              "heading": "Custom Attributes Modified",
               "acceptanceCriteria": "<p>Tool supports:</p><ul><li>setting requirements source, priority, status and acceptance criteria</li><li>setting and resetting a value of a custom attribute for multiple requirements</li></ul>",
               "asAn": "Editor",
               "iWant": "<p>set a value of a chosen custom attribute for one or more selected requirements</p>",
               "soThat": "<p>I can define additional requirements properties, such as requirements source, prioritize requirements, manage requirement status, define acceptance criteria, etc.</p>",
               "status": "Verified",
-              "type": "STORY"
+              "type": "STORY",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "heading": "Custom Attributes"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "c@c.com",
+                    "name": "Carlosa"
+                  },
+                  "changedOn": "2024-03-02T17:49:34.011Z"
+                }
+              ]
             },
             {
               "id": "16",
