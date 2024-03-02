@@ -1,0 +1,417 @@
+{
+  "id": "SyRS_Main",
+  "guid": "197e4d50-5cc5-4fc8-a633-a52bfffb3fe3",
+  "name": "System Requirements Specification",
+  "lastId": 32,
+  "createdOn": "2024-03-02T17:54:00.862Z",
+  "createdBy": {
+    "name": "Carlosa",
+    "email": "c@c.com",
+    "company": ""
+  },
+  "lastChangedOn": "2024-03-02T17:54:00.862Z",
+  "lastChangedBy": {
+    "name": "Carlosa",
+    "email": "c@c.com",
+    "company": ""
+  },
+  "helpRef": "ISO/IEC/IEEE 29148:2018",
+  "data": [
+    {
+      "id": "1",
+      "guid": "62e3a8fc-cab7-475d-b246-92983e9242da",
+      "heading": "Introduction",
+      "helpRef": "8.4.1",
+      "type": "SEC",
+      "children": [
+        {
+          "id": "2",
+          "guid": "eb203737-3dec-47f2-a8fa-08d1b0c5f1fb",
+          "heading": "System purpose",
+          "helpRef": "9.5.2",
+          "type": "SEC"
+        },
+        {
+          "id": "3",
+          "guid": "d9724046-9515-4376-b473-5e8a614b364c",
+          "heading": "System scope",
+          "helpRef": "9.5.3",
+          "type": "SEC"
+        },
+        {
+          "id": "4",
+          "guid": "23816554-c8e1-42fc-bbf5-4d158fa4b0a1",
+          "heading": "System overview",
+          "helpRef": "9.5.4",
+          "type": "SEC",
+          "children": [
+            {
+              "id": "5",
+              "guid": "65753206-e97b-4852-b19d-9acd76a276a4",
+              "heading": "System context",
+              "helpRef": "9.5.4.1",
+              "type": "SEC"
+            },
+            {
+              "id": "6",
+              "guid": "d14b0281-5336-4f0c-8e07-2e2a63c46f17",
+              "heading": "System functions",
+              "helpRef": "9.5.4.2",
+              "type": "SEC"
+            },
+            {
+              "id": "7",
+              "guid": "539d9d94-b976-45de-adfc-295d123bce0a",
+              "heading": "User  characteristics",
+              "helpRef": "9.5.4.3",
+              "type": "SEC"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "guid": "6c5a8d61-9a08-4d26-aa3b-6bd2265ba567",
+          "heading": "Assumptions and dependencies",
+          "helpRef": "9.5.19",
+          "type": "SEC"
+        },
+        {
+          "id": "9",
+          "guid": "bab5ac68-8ae2-404a-bd0d-c2dda4833345",
+          "heading": "Definitions",
+          "helpRef": "9.2.3",
+          "type": "SEC"
+        },
+        {
+          "id": "10",
+          "guid": "6e1221af-c18b-410a-a3dc-70947f02f8de",
+          "heading": "Acronyms and abbreviations",
+          "helpRef": "9.2.5",
+          "type": "SEC"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "guid": "bc52c814-4a84-43ef-90dd-7f13f8e7e800",
+      "heading": "System requirements",
+      "type": "SEC",
+      "children": [
+        {
+          "id": "12",
+          "guid": "43a1b8b1-aad6-47e4-b327-a6ac62f3aef9",
+          "heading": "Functional requirements",
+          "helpRef": "9.5.5",
+          "type": "SEC"
+        },
+        {
+          "id": "13",
+          "guid": "72b6616c-2e2c-4682-9b1e-dc83f6e11cfa",
+          "heading": "Usability requirements",
+          "helpRef": "9.5.6",
+          "type": "SEC"
+        },
+        {
+          "id": "14",
+          "guid": "7ae3a03b-a586-461a-b58c-563bb28d81f8",
+          "heading": "Performance requirements",
+          "helpRef": "9.5.7",
+          "type": "SEC"
+        },
+        {
+          "id": "15",
+          "guid": "ab6b2716-e673-411d-833e-a5698159c7b4",
+          "heading": "System interface requirements",
+          "helpRef": "9.5.8",
+          "type": "SEC"
+        },
+        {
+          "id": "16",
+          "guid": "62d93d6c-f988-43a4-9f5b-2d586e3a8ccb",
+          "heading": "System operations",
+          "helpRef": "9.5.9",
+          "type": "SEC",
+          "children": [
+            {
+              "id": "17",
+              "guid": "9ffd145c-c5db-4474-b12e-84716ec5e0b2",
+              "heading": "Human system integration requirements",
+              "helpRef": "9.5.9.1",
+              "type": "SEC"
+            },
+            {
+              "id": "18",
+              "guid": "112c4fca-7762-4443-b52d-2852320c6308",
+              "heading": "Maintainability requirements",
+              "helpRef": "9.5.9.2",
+              "type": "SEC"
+            },
+            {
+              "id": "19",
+              "guid": "c3a9aabb-c089-4d53-a4f0-c5ba5f5dde46",
+              "heading": "Reliability  requirements",
+              "helpRef": "9.5.9.3",
+              "type": "SEC"
+            },
+            {
+              "id": "20",
+              "guid": "f1d5eb04-e428-4a30-a93b-d381ce656a56",
+              "heading": "Other  quality requirements",
+              "helpRef": "9.5.9.4",
+              "type": "SEC"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "guid": "5bd044fa-539d-4a05-acc5-6569669f1bdf",
+          "heading": "System modes and states",
+          "helpRef": "9.5.10",
+          "type": "SEC"
+        },
+        {
+          "id": "22",
+          "guid": "8624d6f5-5cd0-4204-b7d9-fa4a91d7de86",
+          "heading": "Physical  characteristics",
+          "helpRef": "9.5.11",
+          "type": "SEC",
+          "children": [
+            {
+              "id": "23",
+              "guid": "d06b0024-1013-422a-876c-520dd8bd31cb",
+              "heading": "Physical  requirements",
+              "helpRef": "9.5.11.1",
+              "type": "SEC"
+            },
+            {
+              "id": "24",
+              "guid": "91705f8f-e005-45b4-9546-30314b0f4d20",
+              "heading": "Adaptability  requirements",
+              "helpRef": "9.5.11.2",
+              "type": "SEC"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "guid": "eb7a8f64-e77b-4fb0-bd52-498b90242573",
+          "heading": "Environmental conditions",
+          "helpRef": "9.5.12",
+          "type": "SEC"
+        },
+        {
+          "id": "26",
+          "guid": "664611cb-8ffd-4a7f-9a53-c6595453a28c",
+          "heading": "System security requirements",
+          "helpRef": "9.5.13",
+          "type": "SEC"
+        },
+        {
+          "id": "27",
+          "guid": "bb7b8d08-fe84-4bfb-8bf3-de3625248ddf",
+          "heading": "Information management requirements",
+          "helpRef": "9.5.14",
+          "type": "SEC"
+        },
+        {
+          "id": "28",
+          "guid": "3ccb0577-fd0f-4b56-8933-4ac4f1e7286b",
+          "heading": "Policy and regulation requirements",
+          "helpRef": "9.5.15",
+          "type": "SEC"
+        },
+        {
+          "id": "29",
+          "guid": "d3ce6bc5-f695-4155-8b07-7956b1b8d65b",
+          "heading": "System life cycle sustainment requirements",
+          "helpRef": "9.5.16",
+          "type": "SEC"
+        },
+        {
+          "id": "30",
+          "guid": "f2b82474-4367-4f5d-bdd8-a1779cad01e4",
+          "heading": "Packaging,  handling,  shipping and  transportation requirements",
+          "helpRef": "9.5.17",
+          "type": "SEC"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "guid": "886fc257-10ba-4ebb-94ba-43c60e4da2fa",
+      "heading": "Verification",
+      "helpRef": "9.5.18",
+      "type": "SEC"
+    },
+    {
+      "id": "32",
+      "guid": "c90fc8d9-0856-4827-a8a3-a06af77a5636",
+      "heading": "References",
+      "helpRef": "9.2.4",
+      "type": "SEC"
+    }
+  ],
+  "attributes": {
+    "difficulty": {
+      "name": "Difficulty",
+      "type": "enum",
+      "values": [
+        {
+          "key": "E",
+          "label": "Easy"
+        },
+        {
+          "key": "N",
+          "label": "Nominal"
+        },
+        {
+          "key": "D",
+          "label": "Difficult"
+        }
+      ]
+    },
+    "owner": {
+      "name": "Owner",
+      "type": "string"
+    },
+    "priority": {
+      "name": "Priority",
+      "type": "enum",
+      "values": [
+        {
+          "key": "L",
+          "label": "Low"
+        },
+        {
+          "key": "M",
+          "label": "Medium"
+        },
+        {
+          "key": "H",
+          "label": "High"
+        }
+      ]
+    },
+    "rationale": {
+      "name": "Rationale",
+      "type": "xhtml"
+    },
+    "source": {
+      "name": "Source",
+      "type": "string"
+    },
+    "status": {
+      "name": "Status",
+      "type": "enum",
+      "values": [
+        {
+          "key": "Draft"
+        },
+        {
+          "key": "Ready"
+        },
+        {
+          "key": "Reviewed"
+        },
+        {
+          "key": "Approved"
+        },
+        {
+          "key": "Released"
+        }
+      ]
+    },
+    "type": {
+      "name": "Type",
+      "type": "enum",
+      "values": [
+        {
+          "key": "FR",
+          "label": "Functional Requirement"
+        },
+        {
+          "key": "INT",
+          "label": "Interface Requirement"
+        },
+        {
+          "key": "NFR",
+          "label": "Non-func. Requirement"
+        },
+        {
+          "key": "SEC",
+          "label": "Section"
+        },
+        {
+          "key": "INF",
+          "label": "Information"
+        }
+      ]
+    },
+    "verMethod": {
+      "name": "Ver. Method",
+      "type": "enum",
+      "values": [
+        {
+          "key": "T",
+          "label": "Test"
+        },
+        {
+          "key": "D",
+          "label": "Demonstration"
+        },
+        {
+          "key": "I",
+          "label": "Inspection"
+        },
+        {
+          "key": "A",
+          "label": "Analysis"
+        }
+      ]
+    }
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 77
+        },
+        {
+          "columnId": "type",
+          "width": 97
+        },
+        {
+          "columnId": "description",
+          "width": 372
+        },
+        {
+          "columnId": "source",
+          "width": 150
+        },
+        {
+          "columnId": "rationale",
+          "width": 150
+        },
+        {
+          "columnId": "priority",
+          "width": 96
+        },
+        {
+          "columnId": "status",
+          "width": 86
+        },
+        {
+          "columnId": "verMethod",
+          "width": 105
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.17"
+  }
+}

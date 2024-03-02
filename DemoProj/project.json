@@ -7,7 +7,8 @@
     "SRS.json",
     "TESTS.json",
     "ARCH.json",
-    "OpsCon.json"
+    "OpsCon.json",
+    "SyRS_Main.json"
   ],
   "hierarchy": [
     "INF",
@@ -31,7 +32,8 @@
       ],
       "id": "Level 3"
     },
-    "OpsCon"
+    "OpsCon",
+    "SyRS_Main"
   ],
   "traceability": {
     "implementation": {
